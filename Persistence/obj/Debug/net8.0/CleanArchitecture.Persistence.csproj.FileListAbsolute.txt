@@ -1,0 +1,17 @@
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchitecture.Persistence.deps.json
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchitecture.Persistence.dll
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchitecture.Persistence.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchtecture.Domain.dll
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\bin\Debug\net8.0\CleanArchtecture.Domain.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArc.8FA2ECDA.Up2Date
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.dll
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\refint\CleanArchitecture.Persistence.dll
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Persistence\obj\Debug\net8.0\ref\CleanArchitecture.Persistence.dll

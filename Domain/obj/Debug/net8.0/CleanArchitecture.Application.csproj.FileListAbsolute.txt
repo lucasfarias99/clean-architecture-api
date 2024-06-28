@@ -1,0 +1,15 @@
+C:\Users\faria\source\repos\CleanArchtecture\Domain\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+C:\Users\faria\source\repos\CleanArchtecture\Domain\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\faria\source\repos\CleanArchtecture\Domain\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Domain\bin\Debug\net8.0\CleanArchtecture.Domain.dll
+C:\Users\faria\source\repos\CleanArchtecture\Domain\bin\Debug\net8.0\CleanArchtecture.Domain.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\faria\source\repos\CleanArchtecture\Domain\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll

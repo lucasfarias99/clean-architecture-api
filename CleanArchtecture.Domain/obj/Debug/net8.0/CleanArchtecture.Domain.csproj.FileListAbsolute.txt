@@ -1,0 +1,11 @@
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\bin\Debug\net8.0\CleanArchtecture.Domain.deps.json
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\bin\Debug\net8.0\CleanArchtecture.Domain.dll
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\bin\Debug\net8.0\CleanArchtecture.Domain.pdb
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.AssemblyInfoInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.AssemblyInfo.cs
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.dll
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\refint\CleanArchtecture.Domain.dll
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\CleanArchtecture.Domain.pdb
+C:\Users\faria\source\repos\CleanArchtecture\CleanArchtecture.Domain\obj\Debug\net8.0\ref\CleanArchtecture.Domain.dll
